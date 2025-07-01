@@ -13,6 +13,24 @@ Notre objectif est de démocratiser l’apprentissage de **SUI** en République 
 - Travailler sur l’inclusion financière grâce à la **vitesse**, la **scalabilité** et les **frais réduits** de SUI.
 - Développer un **partenariat local** entre les universités, les formateurs et la fondation SUI.
 
+
+🌍 Vision et objectifs au Congo et en Afrique francophone
+
+AfricaWeb3Hub s'engage à développer l'éducation au Web3 et l'adoption de la blockchain en Afrique francophone, en commençant par la République démocratique du Congo. Notre objectif est de combler le déficit d'information et d'autonomiser les communautés locales, en particulier les jeunes, les femmes et les populations défavorisées, grâce à une formation accessible et localisée sur la blockchain SUI et le langage de programmation Move.
+
+🔧 Nos projets
+
+Organiser des hackathons et des formations intensives pour les développeurs afin d'aider les jeunes développeurs à exploiter l'écosystème SUI.
+
+Organiser des événements en présentiel et des ateliers pédagogiques dans les universités et les pôles technologiques des grandes villes (Kinshasa, Goma, Lubumbashi, etc.).
+
+Lancer des projets pilotes basés sur SUI pour des cas d'utilisation concrets (DeFi, paiements communautaires, identités numériques).
+
+Créer des ressources open source en français, en swahili et en lingala pour rendre l'apprentissage accessible à tous.
+
+Sensibiliser le public via les réseaux sociaux, les groupes WhatsApp et les webinaires.
+
+ > Notre mission est de faire de SUI un nom familier en Afrique francophone et de contribuer à positionner la région comme une force montante dans l'espace Web3 mondial.
 ---
 
 ## ⚙️ Pourquoi SUI ?
@@ -42,9 +60,7 @@ Notre objectif est de démocratiser l’apprentissage de **SUI** en République 
 🌐 [www.africaweb3hub.com](https://www.africaweb3hub.com)  
 📞 WhatsApp : +243 999 798 117  
 🐦 Twitter/X : [@kingofcongo11](https://twitter.com/kingofcongo11)  
-📂 GitHub : [web3-initiation-blockchain-training](https://github.com/web3-initiation-blockchain-training)
-
----
+📂 GitHub : 
 
 ## 🤝 Appel à Partenariat
 
